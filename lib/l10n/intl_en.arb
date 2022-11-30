@@ -1,0 +1,20 @@
+{
+  
+  "@_HOME_SCREEN": {
+  },
+  "sTitle": "Hello, what do you want to watch?",
+  "sSearchBarHint": "Search",
+  "sRecommendedForYou": "RECOMMENDED FOR YOU",
+  "sSeeAll": "See all",
+  "sTopRated" : "TOP RATED",
+
+  "@_DETAIL_SCREEN": {
+  },
+  "sWatchNow": "WATCH NOW",
+  "sGenre": "Genre",
+  "sStudio" : "Studio",
+  "sRelase" : "Release"
+
+
+
+}
